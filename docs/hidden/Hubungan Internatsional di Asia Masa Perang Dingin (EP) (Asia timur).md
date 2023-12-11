@@ -6,7 +6,7 @@ tags:
   - University_Notes_DHIP1945
 ---
 
-up: [[DHIP 1945|DHIP 1945]] 
+up: [[./DHIP 1945|DHIP 1945]] 
 tags: #-Date/2023/11/11-Saturday #University_Notes/DHIP1945  
 ___
 # Presentation
