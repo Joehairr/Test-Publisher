@@ -12,7 +12,7 @@ ___
 # Presentation
 
 - **PRESENTASI Kania** 
-- [[../assets/img/PPT READING REPORT KANIA.pdf|PPT READING REPORT KANIA.pdf]]
+- ![[../assets/img/PPT READING REPORT KANIA.pdf|PPT READING REPORT KANIA.pdf]]
 
 - Kenapa Amerika sibuk ngebendung komunisme di korea jauh2 and then vietnam 
 	- Domino effect
