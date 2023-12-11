@@ -20,7 +20,7 @@ share: true
 - [[International Day of Solidarity with the Palestinian People|International Day of Solidarity with the Palestinian People]]
 - [[Testing Normcap OCR|Testing Normcap OCR]]
 - [[Mentoring Terpusat TKHI (Biweekly 4)|Mentoring Terpusat TKHI (Biweekly 4)]]
-- [[Random note]]
+- [[Random note|Random note]]
 - 
 
 
